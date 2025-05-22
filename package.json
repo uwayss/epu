@@ -1,0 +1,31 @@
+{
+  "name": "epu",
+  "version": "0.1.0",
+  "description": "A CLI tool to streamline common tasks in Expo projects.",
+  "keywords": [
+    "expo",
+    "react-native",
+    "cli",
+    "utils",
+    "automation"
+  ],
+  "homepage": "https://github.com/uwayss/epu#readme",
+  "bugs": {
+    "url": "https://github.com/uwayss/epu/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwayss/epu.git"
+  },
+  "license": "MIT",
+  "author": "Muhammed Antar <antar.muhammed1@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.1",
+    "commander": "^14.0.0"
+  }
+}
